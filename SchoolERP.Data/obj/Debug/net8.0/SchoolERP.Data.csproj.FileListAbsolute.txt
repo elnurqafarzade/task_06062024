@@ -1,0 +1,16 @@
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Data.deps.json
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Data.dll
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Data.pdb
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Core.dll
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Core.pdb
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.csproj.AssemblyReference.cache
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.sourcelink.json
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolER.54AF2C13.Up2Date
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.dll
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\refint\SchoolERP.Data.dll
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.pdb
+C:\Users\FA507XV\source\repos\SchoolERP\SchoolERP.Data\obj\Debug\net8.0\ref\SchoolERP.Data.dll
